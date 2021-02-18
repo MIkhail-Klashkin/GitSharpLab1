@@ -6,7 +6,8 @@ namespace GitSharpLab1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Клашкин Михаил Сергеевич\nМ20-502");
+            Console.ReadKey();
         }
     }
 }
